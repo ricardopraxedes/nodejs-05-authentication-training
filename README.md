@@ -1,3 +1,3 @@
-# nodejs-dependency-injection-training
+# nodejs-authentication-training
 
-Api using TSyringe for dependency injection following RocketSeat Node.js bootcamp classes.
+Create auth middleware using jwt following RocketSeat Node.js bootcamp classes.
